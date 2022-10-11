@@ -11,4 +11,5 @@ public with sharing class ChangePasswordController {
     }     
     
    	public ChangePasswordController() {}
+    // add a line here
 }
